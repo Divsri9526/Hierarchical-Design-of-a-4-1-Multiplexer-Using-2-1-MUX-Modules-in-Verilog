@@ -13,6 +13,7 @@ A 4-to-1 MUX selects one of 4 input lines based on a 2-bit select signal. You ca
 
 - `4to1mux_using_2to1mux.sv` – 4:1 MUX built using three 2:1 MUXes
 - `4to1_mux_tb.sv` – Testbench for simulating the 4:1 MUX
+- `4to1_MUX_waveform.png` – 4to1 MUX Waveform Screenshot 
 
 ## ▶️ Run Simulation
 
