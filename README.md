@@ -11,8 +11,8 @@ A 4-to-1 MUX selects one of 4 input lines based on a 2-bit select signal. You ca
 
 ## 📎 Files
 
-- `mux4to1_using_2to1.v` – 4:1 MUX built using three 2:1 MUXes
-- `mux4to1_tb.v` – Testbench for simulating the 4:1 MUX
+- `4to1mux_using_2to1mux.sv` – 4:1 MUX built using three 2:1 MUXes
+- `4to1_mux_tb.sv` – Testbench for simulating the 4:1 MUX
 
 ## ▶️ Run Simulation
 
