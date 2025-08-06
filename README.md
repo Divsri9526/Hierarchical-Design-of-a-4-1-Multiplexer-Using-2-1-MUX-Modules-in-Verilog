@@ -1,6 +1,6 @@
-# 4-to-1 MUX Using 2-to-1 MUX in Verilog (EDA Playground)
+# 4-to-1 MUX Using 2-to-1 MUX in Verilog
 
-This project demonstrates how a 4-to-1 multiplexer can be constructed using only 2-to-1 multiplexers in **Verilog HDL**, simulated using **EDA Playground**.
+This project demonstrates the hierarchical structural design of a 4-to-1 multiplexer using basic 2-to-1 multiplexer modules in Verilog HDL. The 4:1 MUX is constructed using three 2:1 MUXes to illustrate modular design principles and promote reusability in hardware description. The design is verified using a testbench and simulated on EDA Playground. This project showcases digital logic design, behavioral simulation, and fundamental principles of hardware modularity.
 
 ## 🧠 Logic Overview
 
